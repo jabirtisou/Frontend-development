@@ -31,11 +31,11 @@ Responsive
 https://www.apple.com
   
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+https://www.apple.com/
 <img src="Images/screen1.png" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+https://www.apple.com/mac/
 <img src="Images/screen2.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
