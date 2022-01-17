@@ -1,0 +1,365 @@
+/* All */
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
+  font-family: "SF Pro Display", sans-serif;
+}
+
+/* Navigation bar */
+header nav {
+  position: fixed;
+  top: 0;
+  z-index: 1400;
+  width: 100%;
+  height: 4.4rem;
+  background-color: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(2rem);
+  display: flex;
+  align-items: center;
+}
+
+nav ul {
+  width: 100%;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px 0 20px;
+}
+
+/* Hamburger menu  */
+.NavBarMobile{
+  top:20px;
+  padding: 23px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 0px;
+  align-items: flex-start;
+  z-index: 99;
+  height: 100vh;
+  transition: .3s ease;
+  background-color: black;
+  display: none;
+  position: fixed;
+}
+.NavBarMobile>li{
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+  margin-left: 17px;
+  color: white;
+  border-bottom: 1px solid #424245;
+}
+.NavBarMobile>li a{
+  text-decoration: none;
+  color: #CCCCCC;
+  font-size: 20px;
+}
+.NavBarMobile>li:nth-of-type(1){
+  width: 120%;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left:-34px;
+  display: flex;
+  flex-direction: column;
+  border-bottom: none;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #424245;
+}
+input{
+  padding-left: 10px;
+  background-color: #1D1D1F;
+  border-style:none;
+  border-radius: 10px;
+  height: 35px;
+  margin-bottom: 10px;
+
+}
+/*Iphone13pro section */
+main section:nth-of-type(1) {
+  background: url("../Images/Mobile/Iphone13pro.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 4.4rem;
+  height: 52rem;
+  border-top: none;
+}
+main section div div a:nth-of-type(1) {
+  margin-right: 20px;
+}
+main section div h2 {
+  font-size: 4rem;
+}
+
+main section div h3 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+main section:nth-of-type(1) div {
+  padding: 30px 20px 15px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+main section:nth-of-type(1) div div {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
+div div a {
+  color: #06c;
+  font-size: 2em;
+  margin: 2px;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+/*Iphone13 section */
+main section:nth-of-type(2) {
+  background: url("../Images/Mobile/Iphone13.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 1.4rem;
+  height: 52rem;
+  border-top: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main section:nth-of-type(2) div h2 {
+  font-size: 4rem;
+  color: #f5f5f7;
+  margin-bottom: 5px;
+}
+
+main section:nth-of-type(2) div h3 {
+  font-size: 2rem;
+  font-weight: 400;
+  color: #fec2eb;
+  margin-bottom: 10px;
+}
+
+main section:nth-of-type(2) div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+main section:nth-of-type(2) div div {
+  display: flex;
+  flex-direction: row;
+}
+/*AppleWatch section */
+main section:nth-of-type(3) {
+  background: url("../Images/Mobile/Watch.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 1.4rem;
+  height: 52rem;
+  border-top: none;
+  display: flex;
+  justify-content: center;
+}
+main section:nth-of-type(3) h2 {
+  background: url("../Images/Mobile/AppleWatchLogo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 3em;
+}
+
+main section:nth-of-type(3) h3 {
+  margin-bottom: 10px;
+}
+
+/*Macbook pro section */
+.productsGrid section:nth-of-type(1) {
+  background: url("../Images/Mobile/Macbookpro.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 1.4rem;
+  height: 52rem;
+  border-top: none;
+  display: flex;
+  justify-content: center;
+}
+
+/* Airpods */
+.productsGrid section:nth-of-type(2) {
+  background: url("../Images/Mobile/AirPods.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 1.4rem;
+  height: 52rem;
+  border-top: none;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.productsGrid section:nth-of-type(2) h2 {
+  color: black;
+}
+.productsGrid section:nth-of-type(2) h3 {
+  color: black;
+}
+
+/* IpadMini */
+.productsGrid section:nth-of-type(3) {
+  background: url("../Images/Mobile/IpadMini.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 1.4rem;
+  height: 52rem;
+  border-top: none;
+  display: flex;
+  justify-content: center;
+}
+.productsGrid section:nth-of-type(3) h2 {
+  background: url("../Images/Mobile/IpadMiniLogo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 2em;
+}
+
+/* Airtag section */
+.productsGrid section:nth-of-type(4) {
+  background: url("../Images/Mobile/AirTag.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 1.4rem;
+  height: 52rem;
+  border-top: none;
+  display: flex;
+  justify-content: center;
+}
+
+.productsGrid section:nth-of-type(4) div {
+  margin-top: 1.4rem;
+}
+
+.productsGrid section:nth-of-type(4) h2,
+.productsGrid section:nth-of-type(4) h3 {
+  text-align: center;
+}
+
+/* AppleTv */
+.productsGrid section:nth-of-type(5) {
+  background: url("../Images/Mobile/AppleTv.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 1.4rem;
+  height: 52rem;
+  border-top: none;
+  display: flex;
+  justify-content: center;
+}
+
+.productsGrid section:nth-of-type(5) h2 {
+  background: url("../Images/Mobile/AppleTvLogo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 2em;
+}
+.productsGrid section:nth-of-type(5) h3 {
+  font-size: 3em;
+  text-align: center;
+}
+
+/* Tv+ */
+.productsGrid section:nth-of-type(6) {
+  background: url("../Images/Mobile/TV.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 1.4rem;
+  height: 52rem;
+  border-top: none;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  color: #fff;
+}
+
+.productsGrid section:nth-of-type(6) h2 {
+  background: url("../Images/Mobile/TVLogo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 3em;
+}
+.productsGrid section:nth-of-type(6) h3 {
+  text-align: center;
+}
+.productsGrid section:nth-of-type(6) div {
+  padding-bottom: 3em;
+}
+
+.productsGrid section:nth-of-type(6) div div {
+  margin-top: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.productsGrid section:nth-of-type(6) div div a {
+  color: #fff;
+}
+
+/* Footer */
+footer {
+  background: #f5f5f7;
+  margin-top: 1.4rem;
+  padding-left: 3em;
+  padding-right: 3em;
+}
+footer section:nth-of-type(1) p {
+  padding: 1.5rem;
+  color: #6e6e73;
+  font-size: 12px;
+}
+footer section {
+  padding: 0.5rem;
+  border-bottom: 1px solid #d3d3d8;
+}
+footer section:nth-of-type(2) {
+  border-bottom: none;
+}
+footer section:nth-of-type(2) section {
+  border-bottom: 1px solid #d3d3d8;
+}
+footer section:nth-of-type(2) section h2 {
+  color: #6e6e73;
+}
+
+footer section h2::after {
+  content: "+";
+  float: right;
+  color: #6e6e73;
+}
+
+footer section {
+  color: #424245;
+}
+footer section ul li {
+  margin-top: 10px;
+}
+footer section ul {
+  display: none;
+}
+ul {
+  list-style: none;
+}
+
+footer section:nth-of-type(3) p {
+  color: #6e6e73;
+  margin-bottom: 10px;
+}
