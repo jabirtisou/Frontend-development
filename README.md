@@ -47,6 +47,8 @@ https://www.apple.com/mac/ <br/>
 <details>
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
+  
+
 ### de hele pagina: 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
@@ -82,6 +84,7 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 <details>
 <summary>uitwerken voor 2e voortgang</summary>
 
+</details>
 
 
 
@@ -92,6 +95,7 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 <summary>uitwerken na test in 8e voortgang</summary>
 
 
+</details>
 
 
 
