@@ -5,13 +5,13 @@
 ## Jij
 
 <details>
-<summary>uitwerken voor kick-off werkgroep</summary>
+<summary>Auteur, startniveau & focus.</summary>
 
 ### Auteur:
 Jabir Tisoudali
 
 #### Je startniveau:
-Zwarte piste 
+Rode piste 
   
 #### Je focus:
 Responsive
@@ -25,7 +25,7 @@ Responsive
 ## Je website
 
 <details>
-<summary>uitwerken voor kick-off werkgroep</summary>
+<summary>Opdracht website & screenshots</summary>
 
 ### Je opdracht:
 https://www.apple.com
@@ -45,15 +45,15 @@ https://www.apple.com/mac/ <br/>
 ## Breakdownschets (week 1)
 
 <details>
-<summary>uitwerken na afloop 2e werkgroep</summary>
+<summary>Breakdownschets </summary>
 
   
 
-### de hele pagina: 
-<img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/Schermafbeelding%202022-01-17%20om%2003.32.23.png" width="375px" alt="breakdown van de hele pagina">
+### Homepagina: 
+<img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/breakdownschets.png">
 
-### Pagina Mobile versie hamburgemenu: 
-<img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/Schermafbeelding%202022-01-17%20om%2003.36.15.png" width="375px" alt="breakdown van de hele pagina">
+### Supportpagina: 
+<img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/breakdownschets2.png">
 
 
 </details>
@@ -65,7 +65,7 @@ https://www.apple.com/mac/ <br/>
 ## Voortgang 1 (week 2)
 
 <details>
-<summary>uitwerken voor 1e voortgang</summary>
+<summary>HTML</summary>
 
 ### Stand van zaken
 Ik heb mijn html uitgewerkt van mijn homepagina.
@@ -80,18 +80,18 @@ Ik heb mijn html uitgewerkt van mijn homepagina.
 ## Voortgang 2 (week 3)
 
 <details>
-<summary>uitwerken voor 2e voortgang</summary>
+<summary>Css start Navigatie</summary>
+<img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/Schermafbeelding%202022-01-17%20om%2015.51.39.png" width="375px">
 
 </details>
 
 
 
-
-## Toegankelijkheidstest (week 4)
+##  (week 4)
 
 <details>
-<summary>uitwerken na test in 8e voortgang</summary>
-
+<summary>Css main content</summary>
+<img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/Schermafbeelding%202022-01-17%20om%2015.51.59.png" width="375px">
 
 </details>
 
@@ -99,13 +99,16 @@ Ik heb mijn html uitgewerkt van mijn homepagina.
 
 
 ## Voortgang 3 (week 4)
-Waar ik tegen aan loop is het selecteren van html in css zonder classes. Soms pakt hij verschillende soorten html elementen terwijl ik maar 1 heb geselecteerd.
+
+
+<details>
+<summary>Problemen met css selectors</summary>
+Waar ik tegen aan loop is het selecteren van html in css zonder classes. Soms pakt hij verschillende soorten html elementen terwijl ik maar 1 heb geselecteerd. Waardoor ik soms in de knel loop omdat ik de zelfde css soms moet overwrite. Ik heb nu nog alleen de mobile versie kunnen maken van de website. De responsive moet ik nog aan beginnen.
  Resultaat Homepagina met css & Javascript
 
-<details open>
-<summary>uitwerken voor 3e voortgang</summary>
+<br/>
+  <br/>
 
-  
   <img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/Schermafbeelding%202022-01-17%20om%2003.13.38.png" width="300px" alt="breakdown van nog een dynamisch deel">
   <img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/Schermafbeelding%202022-01-17%20om%2003.13.44.png" width="300px" alt="breakdown van nog een dynamisch deel">
   <img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/Schermafbeelding%202022-01-17%20om%2003.13.52.png" width="300px" alt="breakdown van nog een dynamisch deel">
