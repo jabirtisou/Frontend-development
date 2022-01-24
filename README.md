@@ -129,7 +129,7 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 
 ### Screenshot(s)
 
- <img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/Schermafbeelding%202022-01-24%20om%2001.20.08.png" width="300px" alt="breakdown van nog een dynamisch deel">
+ <img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/Schermafbeelding%202022-01-24%20om%2001.20.08.png" width="800px" alt="breakdown van nog een dynamisch deel">
   <img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/Schermafbeelding%202022-01-24%20om%2001.20.19.png" width="300px" alt="breakdown van nog een dynamisch deel">
 </details>
 
