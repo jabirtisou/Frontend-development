@@ -125,8 +125,14 @@ Waar ik tegen aan loop is het selecteren van html in css zonder classes. Soms pa
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Punten die ik moest verbeteren voor de herkasing:
+  
+  Responsive toevoegen,
+  px weghalen alles em, rem maken
+  meer hover toevoegen,
+  div wegwerken.
+  
+  
 ### Screenshot(s)
 
  <img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/Schermafbeelding%202022-01-24%20om%2001.20.08.png" width="800px" alt="breakdown van nog een dynamisch deel">
