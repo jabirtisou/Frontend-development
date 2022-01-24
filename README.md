@@ -129,8 +129,8 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
-
+ <img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/Schermafbeelding%202022-01-24%20om%2001.20.08.png" width="300px" alt="breakdown van nog een dynamisch deel">
+  <img src="https://github.com/jabirtisou/Frontend-development/blob/main/Images/Schermafbeelding%202022-01-24%20om%2001.20.19.png" width="300px" alt="breakdown van nog een dynamisch deel">
 </details>
 
 
@@ -140,6 +140,7 @@ hier screenshot(s) van je eindresultaat
 ## Bronnenlijst
 
 1. https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child
-
+2. https://stackoverflow.com/questions/48191289/hamburger-navigation-how-to-hide-show-links
+3. https://dev.to/afif/build-your-responsive-website-without-media-query-omj
 
 </details>
